@@ -1,0 +1,10 @@
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\bin\Debug\Kreditrechner.exe.config
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\bin\Debug\Kreditrechner.exe
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\bin\Debug\Kreditrechner.pdb
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.csproj.AssemblyReference.cache
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kredit_fuss1.Form1.resources
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.Properties.Resources.resources
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.csproj.GenerateResource.cache
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.csproj.CoreCompileInputs.cache
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.exe
+C:\Users\Radeon\Desktop\C# GitHub\Kredit_fuss_Vorlage\Kreditrechner\obj\Debug\Kreditrechner.pdb
